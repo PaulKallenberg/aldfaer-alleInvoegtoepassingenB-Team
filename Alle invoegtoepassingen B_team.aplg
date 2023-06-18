@@ -1,5 +1,5 @@
 pluginname      = Alle invoegtoepassingen B_team
 author          = Han Kortekaas
-version         = 2.38
+version         = 2.39
 versionfile     = http://www.aldfaer.net/site/files/downloads/invoeg.html
 checkautoupdate = true
